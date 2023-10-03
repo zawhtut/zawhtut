@@ -1,10 +1,8 @@
-<div>
+
     ### Hello There, Welcome To My GitHub 
-</div>
-<div>
+
     ![Banner](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
-</div>
-<div>
+
     ![Static Badge](https://img.shields.io/badge/CSharp-Intermediate-purple)
     ![Static Badge](https://img.shields.io/badge/Blazor-Expert-magenta)
     ![Static Badge](https://img.shields.io/badge/MAUI-Beginner-blueviolet)
@@ -14,7 +12,7 @@
     ![Static Badge](https://img.shields.io/badge/SQL-Intermediate-F29111)
     ![Static Badge](https://img.shields.io/badge/Azure-Intermediate-086FBE)
     ![Static Badge](https://img.shields.io/badge/GCP-Beginner-4885ed)
-</div>
+
 
 I am an aspiring software engineer and a dedicated .NET enthusiast. I began exploring computers, including hardware assembly, around the time of Y2K. In my leisure time, I find joy in watching movies and embarking on sightseeing and excursions.
 
