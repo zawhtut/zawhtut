@@ -27,5 +27,5 @@ I am an aspiring software engineer and a dedicated .NET enthusiast. I began expl
 
 ## License
 
-This profile is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
+This profile is licensed under the [All Rights Reserved](LICENSE).
 
