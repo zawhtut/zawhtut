@@ -1,17 +1,17 @@
 
-    ### Hello There, Welcome To My GitHub 
+### Hello There, Welcome To My GitHub 
 
-    ![Banner](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+![Banner](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
-    ![Static Badge](https://img.shields.io/badge/CSharp-Intermediate-purple)
-    ![Static Badge](https://img.shields.io/badge/Blazor-Expert-magenta)
-    ![Static Badge](https://img.shields.io/badge/MAUI-Beginner-blueviolet)
-    ![Static Badge](https://img.shields.io/badge/Python-Beginner-4B8BBE)
-    ![Static Badge](https://img.shields.io/badge/React-Beginner-61dafb)
-    ![Static Badge](https://img.shields.io/badge/Angular-Beginner-B52E31)
-    ![Static Badge](https://img.shields.io/badge/SQL-Intermediate-F29111)
-    ![Static Badge](https://img.shields.io/badge/Azure-Intermediate-086FBE)
-    ![Static Badge](https://img.shields.io/badge/GCP-Beginner-4885ed)
+![Static Badge](https://img.shields.io/badge/CSharp-Intermediate-purple)
+![Static Badge](https://img.shields.io/badge/Blazor-Expert-magenta)
+![Static Badge](https://img.shields.io/badge/MAUI-Beginner-blueviolet)
+![Static Badge](https://img.shields.io/badge/Python-Beginner-4B8BBE)
+![Static Badge](https://img.shields.io/badge/React-Beginner-61dafb)
+![Static Badge](https://img.shields.io/badge/Angular-Beginner-B52E31)
+![Static Badge](https://img.shields.io/badge/SQL-Intermediate-F29111)
+![Static Badge](https://img.shields.io/badge/Azure-Intermediate-086FBE)
+![Static Badge](https://img.shields.io/badge/GCP-Beginner-4885ed)
 
 
 I am an aspiring software engineer and a dedicated .NET enthusiast. I began exploring computers, including hardware assembly, around the time of Y2K. In my leisure time, I find joy in watching movies and embarking on sightseeing and excursions.
